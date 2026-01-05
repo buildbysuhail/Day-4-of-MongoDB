@@ -1,3 +1,5 @@
+// This file is just for Training the database schema design with Mongoose
+
 // Importing
 const mongoose = require('mongoose');
 
