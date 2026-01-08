@@ -1,4 +1,4 @@
-// User model is required for auth
+// User model is required for auth // 1st
 const mongoose = require('mongoose');
 
 const userSchema = new mongoose.Schema({
